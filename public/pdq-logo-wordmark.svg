@@ -1,0 +1,8 @@
+<svg width="246" height="40" viewBox="0 0 246 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pdqWordmarkTitle pdqWordmarkDesc">
+  <title id="pdqWordmarkTitle">PrettyDamnQuick wordmark</title>
+  <desc id="pdqWordmarkDesc">White PrettyDamnQuick logo featuring a stylized parcel icon and wordmark text.</desc>
+  <g fill="#FFFFFF">
+    <path d="M8 4h22c1.657 0 3 1.343 3 3v26c0 1.657-1.343 3-3 3H8c-1.657 0-3-1.343-3-3V7c0-1.657 1.343-3 3-3zm0 6v18h22V10H8zm5 3h12v4H13v-4zm0 7h12v4H13v-4z"/>
+    <text x="42" y="27" font-family="'Poppins', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="0.04em">prettydamnquick</text>
+  </g>
+</svg>
